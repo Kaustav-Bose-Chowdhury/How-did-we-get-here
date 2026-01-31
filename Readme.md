@@ -6,7 +6,7 @@ Later I thought to upload it on Github (the unfinished docs) so that I can versi
 
 ## So what can you expect to find here
 **For beginners :** You may find a roadmap to start the journey.  
-**For beginners++ :** You may find solutions to your problems or learn something new.
+**For beginners++ :** You may find solutions to your problems or learn something new.  
 **For more experienced folks :** I do not think that there is much I can do. Although I would be glad to learn something new. You may also contribute to this.
 
 >Note: This project is nowhere near complete and will probably be updated
